@@ -4,7 +4,7 @@ published: true
 ---
 
 Hello and welcome to our Educational Dialogue course series! This series consists of three core courses:
-* Course 1: The fundamentals of educational dialogue (a link will be provided here once this course is launched)
+* [Course 1: The fundamentals of educational dialogue](https://mbrugha.github.io/fundamentals-of-ed-dialogue/)
 * Course 2: Conducting a reflective inquiry (a link will be provided here once this course is launched)
 * [Course 3: Supporting your colleagues through facilitation](https://mbrugha.github.io/facilitation/)
 
